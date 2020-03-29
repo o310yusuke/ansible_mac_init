@@ -7,6 +7,6 @@
   gather_facts: no
   # タスクの呼び出し
   roles:
-    - 02_homebrew
-    - 02_homebrew_cask
+    - 02_roles/homebrew
+    - 02_roles/homebrew_cask
     
