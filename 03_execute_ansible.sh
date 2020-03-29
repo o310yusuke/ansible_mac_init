@@ -12,6 +12,7 @@ if [ "$1" = "" ]; then
     printf '実行モードを入力（構文チェック：check, 実行：execute）: '
     read mode
 else
+    # 実行時の引数があれば、それを利用
     mode="$1"
 fi
 
