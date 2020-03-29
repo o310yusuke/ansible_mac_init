@@ -1,0 +1,16 @@
+
+packages:
+  # IME
+  - { name: google-japanese-ime, state: present }
+
+  # Browser
+  - { name: google-chrome, state: present }
+
+  # develop IDE
+  - { name: visual-studio-code, state: present }
+
+  # develop terminal
+  - { name: iterm2, state: present }
+
+  # develop MW
+  - { name: powershell, state: present }
