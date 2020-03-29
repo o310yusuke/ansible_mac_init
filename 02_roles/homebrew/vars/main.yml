@@ -1,0 +1,25 @@
+
+taps:
+  - homebrew/cask
+  - homebrew/cask-versions
+  - homebrew/cask-fonts
+  - homebrew/core
+
+packages:
+  - { name: tree, state: present }
+
+  # develop
+  - { name: git, state: present }
+  - { name: sqlite, state: present }
+
+  # develop java
+  - { name: gradle, state: present }
+
+  # develop c#
+  - { name: mono, state: present}
+
+  # develop python
+  - { name: python3, state: present}
+
+  # develop plantuml
+  - { name: graphviz, state: poresent }
