@@ -1,0 +1,12 @@
+- name: mac setup
+  hosts: localhost
+  connection: local
+  # sudo実行有無：実行なしのためno
+  become: no
+  # 対象サーバの情報収集：しないのでno
+  gather_facts: no
+  # タスクの呼び出し
+  roles:
+    - 02_homebrew
+    - 02_homebrew_cask
+    
