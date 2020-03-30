@@ -22,4 +22,4 @@ packages:
   - { name: python3, state: present}
 
   # develop plantuml
-  - { name: graphviz, state: poresent }
+  - { name: graphviz, state: present }
