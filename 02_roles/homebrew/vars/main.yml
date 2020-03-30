@@ -1,8 +1,8 @@
 
 taps:
   - homebrew/cask
-  - homebrew/cask-versions
-  - homebrew/cask-fonts
+  # - homebrew/cask-versions
+  # - homebrew/cask-fonts
   - homebrew/core
 
 packages:
