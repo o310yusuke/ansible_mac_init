@@ -1,5 +1,5 @@
 
-extention_list:
+extension_list:
   # base
   - { name: PKief.material-icon-theme }
   # Ansible
