@@ -1,0 +1,9 @@
+
+- block:
+
+  - name: install vscode extension
+    raw: "code --install-extension {{ item.name }}"
+    with_items: "{{ extension_list }}"
+
+  tags:
+    - vscode_extension

@@ -1,0 +1,26 @@
+
+extention_list:
+  # base
+  - { name: PKief.material-icon-theme }
+  # Ansible
+  - { name: vscoss.vscode-ansible }
+  # PlantUML
+  - { name: jebbs.plantuml }
+  - { name: shd101wyy.markdown-preview-enhanced }
+  # API Design
+  - { name: vncz.vscode-apielements }
+  # Java
+  - { name: vscjava.vscode-java-pack }
+  # Java lombok
+  - { name: GabrielBB.vscode-lombok }
+  # Java SpringBoot
+  - { name: pivotal.vscode-boot-dev-pack }
+  # Java Flutter/Dart
+  - { name: dart-code.dart-code }
+  - { name: dart-code.flutter }
+  # C#
+  - { name: ms-dotnettools.csharp }
+  # python
+  - { name: ms-python.python }
+  # PowerShell
+  - { name: ms-vscode.powershell }

@@ -25,3 +25,4 @@ Xcodeは、AppStoreからインストールされていることを前提とし�
 
 ## 参考サイト
 - https://rightcode.co.jp/blog/information-technology/ansible-mac-environment-setup
+- https://qiita.com/kohbis/items/c12281805f9f9f59600d

@@ -9,4 +9,5 @@
   roles:
     - 02_roles/homebrew
     - 02_roles/homebrew_cask
+    - 02_roles/vscode_extension
     
