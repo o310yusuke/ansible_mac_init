@@ -6,6 +6,9 @@ packages:
   # Browser
   - { name: google-chrome, state: present }
 
+  # JDK
+  # - { name: oracle-jdk, state: present }
+
   # develop IDE
   - { name: visual-studio-code, state: present }
 
