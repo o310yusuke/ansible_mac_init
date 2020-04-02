@@ -21,6 +21,7 @@ Xcodeは、AppStoreからインストールされていることを前提とし�
 - 02_roles
     - homebrew : homebrewを使ってインストールするCLIツール系
     - homebrew_cask : homebrewを使っていインストールするGUIツール系
+    - vscode_extenstion : vscodeにインストールする拡張機能
 
 
 ## 参考サイト
