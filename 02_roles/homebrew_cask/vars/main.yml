@@ -17,3 +17,6 @@ packages:
 
   # develop MW
   - { name: powershell, state: present }
+
+  # WebBrowserDriver: chrome
+  - { name: chromedriver, state: present }
